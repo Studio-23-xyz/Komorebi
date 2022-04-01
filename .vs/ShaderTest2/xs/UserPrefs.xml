@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{446FF542-B504-6F40-48E3-AC9BD9DB74EA}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/ShowFPS.cs">
+    <Files>
+      <File FileName="Assets/Scripts/SceneController.cs" Line="18" Column="40" />
+      <File FileName="Assets/Scripts/TransformExtention.cs" />
+      <File FileName="Assets/Scripts/ShowFPS.cs" Line="45" Column="10" />
+      <File FileName="Assets/Scripts/LeafController.cs" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="0705cdc7-951c-43ab-acab-31011e40c634" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
