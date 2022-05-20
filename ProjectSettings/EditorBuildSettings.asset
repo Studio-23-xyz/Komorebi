@@ -6,7 +6,7 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 0
-    path: Assets/v1.0/Scenes/New/LightOnly.unity
+    path: Assets/v1.0/Scenes/LightOnly.unity
     guid: 1aa2afd4426df4ee39c97b7eb44e7fdc
   - enabled: 0
     path: Assets/v1.0/Scenes/MainScene.unity
@@ -24,12 +24,12 @@ EditorBuildSettings:
     path: Assets/v1.0/Scenes/water_drop.unity
     guid: aa6f46064e16c4ce98d1d27d02c87859
   - enabled: 0
-    path: Assets/v1.0/Scenes/New/TreeWithLight2.unity
+    path: Assets/v1.0/Scenes/TreeWithLight2.unity
     guid: e43dc8d49cd734db9b3d44cc05e25726
   - enabled: 0
-    path: Assets/v1.0/Scenes/New/TreeWithLight.unity
+    path: Assets/v1.0/Scenes/TreeWithLight.unity
     guid: 9a1a9286ece7e4278a49ce124a1f075b
   - enabled: 0
-    path: Assets/v1.0/Scenes/New/LightWithStick2.unity
+    path: Assets/v1.0/Scenes/LightWithStick2.unity
     guid: ca9e39396c37743fbbb3d9822140bacc
   m_configObjects: {}

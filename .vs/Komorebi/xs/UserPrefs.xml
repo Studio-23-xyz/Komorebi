@@ -1,19 +1,16 @@
 ﻿<Properties StartupConfiguration="{EE119F03-DDAC-6168-22B6-FA6380E597C6}|">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/WindAnim.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/v1.0/Scripts/WindAnim.cs">
     <Files>
-      <File FileName="Assets/UIBlur/Mat/HLSL/PixelPerfectBlur.cs" Line="1" Column="1" />
-      <File FileName="Assets/Scripts/LightArrangement2.cs" Line="28" Column="65" />
-      <File FileName="Assets/Scripts/WindAnim.cs" Line="20" Column="86" />
+      <File FileName="Assets/v1.0/Scripts/WindAnim.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="Komorebi" expanded="True">
-            <Node name="Assets" expanded="True" selected="True">
-              <Node name="Scripts" expanded="True" />
-              <Node name="UIBlur" expanded="True">
-                <Node name="Mat" expanded="True">
-                  <Node name="HLSL" expanded="True" />
+            <Node name="Assets" expanded="True">
+              <Node name="v1.0" expanded="True">
+                <Node name="Scripts" expanded="True">
+                  <Node name="WindAnim.cs" selected="True" />
                 </Node>
               </Node>
             </Node>
@@ -24,7 +21,7 @@
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="f5c51230-8847-4e68-b677-0dbcc492fc2e" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="69a0a9f6-a1cb-458d-a1c8-54c07e4c1fe3" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
